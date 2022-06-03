@@ -1,0 +1,31 @@
+Anaheim,Ducks,ANA,P,0,0,0,0,0,0,0,0,0
+Arizona,Coyotes,ARI,P,0,0,0,0,0,0,0,0,0
+Boston,Bruins,BOS,A,0,0,0,0,0,0,0,0,0
+Buffalo,Sabres,BUF,A,0,0,0,0,0,0,0,0,0
+Calgary,Flames,CGY,P,0,0,0,0,0,0,0,0,0
+Carolina,Hurricanes,CAR,M,0,0,0,0,0,0,0,0,0
+Chicago,Blackhawks,CHI,C,0,0,0,0,0,0,0,0,0
+Colorado,Avalanche,COL,C,0,0,0,0,0,0,0,0,0
+Columbus,Blue Jackets,CBJ,M,0,0,0,0,0,0,0,0,0
+Dallas,Stars,DAL,C,0,0,0,0,0,0,0,0,0
+Detroit,Red Wings,DET,A,0,0,0,0,0,0,0,0,0
+Edmonton,Oilers,EDM,P,0,0,0,0,0,0,0,0,0
+Florida,Panthers,FLA,A,0,0,0,0,0,0,0,0,0
+Los Angeles,Kings,LA,P,0,0,0,0,0,0,0,0,0
+Minnesota,Wild,MIN,C,0,0,0,0,0,0,0,0,0
+Montreal,Canadiens,MTL,A,0,0,0,0,0,0,0,0,0
+Nashville,Predators,NSH,C,0,0,0,0,0,0,0,0,0
+New Jersey,Devils,NJ,M,0,0,0,0,0,0,0,0,0
+New York,Islanders,NYI,M,0,0,0,0,0,0,0,0,0
+New York,Rangers,NYR,M,0,0,0,0,0,0,0,0,0
+Ottawa,Senators,OTT,A,0,0,0,0,0,0,0,0,0
+Philadelphia,Flyers,PHI,M,0,0,0,0,0,0,0,0,0
+Pittsburgh,Penguins,PIT,M,0,0,0,0,0,0,0,0,0
+San Jose,Sharks,SJ,P,0,0,0,0,0,0,0,0,0
+St. Louis,Blues,STL,C,0,0,0,0,0,0,0,0,0
+Tampa Bay,Lightning,TB,A,0,0,0,0,0,0,0,0,0
+Toronto,Maple Leafs,TOR,A,0,0,0,0,0,0,0,0,0
+Vancouver,Canucks,VAN,P,0,0,0,0,0,0,0,0,0
+Vegas,Golden Knights,VGK,P,0,0,0,0,0,0,0,0,0
+Washington,Capitals,WSH,M,0,0,0,0,0,0,0,0,0
+Winnipeg,Jets,WPG,C,0,0,0,0,0,0,0,0,0
